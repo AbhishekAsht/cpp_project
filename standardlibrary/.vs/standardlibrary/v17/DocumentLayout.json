@@ -1,12 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\RTR_Work\\c\u002B\u002B project\\standardlibrary\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\RTR_Work\\cpp_project\\standardlibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA75D92-1DEF-4A73-8669-5C2CCD312EF8}|standardlibrary.vcxproj|D:\\RTR_Work\\cpp_project\\standardlibrary\\listInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DA75D92-1DEF-4A73-8669-5C2CCD312EF8}|standardlibrary.vcxproj|solutionrelative:listInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA75D92-1DEF-4A73-8669-5C2CCD312EF8}|standardlibrary.vcxproj|D:\\RTR_Work\\cpp_project\\standardlibrary\\vectorIntface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DA75D92-1DEF-4A73-8669-5C2CCD312EF8}|standardlibrary.vcxproj|solutionrelative:vectorIntface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA75D92-1DEF-4A73-8669-5C2CCD312EF8}|standardlibrary.vcxproj|D:\\RTR_Work\\cpp_project\\standardlibrary\\standardlibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DA75D92-1DEF-4A73-8669-5C2CCD312EF8}|standardlibrary.vcxproj|solutionrelative:standardlibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "listInterface.h",
+              "DocumentMoniker": "D:\\RTR_Work\\cpp_project\\standardlibrary\\listInterface.h",
+              "RelativeDocumentMoniker": "listInterface.h",
+              "ToolTip": "D:\\RTR_Work\\cpp_project\\standardlibrary\\listInterface.h",
+              "RelativeToolTip": "listInterface.h",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-30T15:09:19.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vectorIntface.h",
+              "DocumentMoniker": "D:\\RTR_Work\\cpp_project\\standardlibrary\\vectorIntface.h",
+              "RelativeDocumentMoniker": "vectorIntface.h",
+              "ToolTip": "D:\\RTR_Work\\cpp_project\\standardlibrary\\vectorIntface.h",
+              "RelativeToolTip": "vectorIntface.h",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-30T14:48:21.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "standardlibrary.cpp",
+              "DocumentMoniker": "D:\\RTR_Work\\cpp_project\\standardlibrary\\standardlibrary.cpp",
+              "RelativeDocumentMoniker": "standardlibrary.cpp",
+              "ToolTip": "D:\\RTR_Work\\cpp_project\\standardlibrary\\standardlibrary.cpp",
+              "RelativeToolTip": "standardlibrary.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-30T14:48:08.697Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
